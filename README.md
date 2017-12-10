@@ -27,4 +27,6 @@ In Decentraland, users have full control over the content of the land they own a
 
 To make this possible, Decentraland uses blockchain technology as an unforgeable record of ownership.
 
+Decentraland is for 
+artists, gamers, students and online communities.
 
