@@ -17,3 +17,14 @@ Decentraland is a virtual reality platform powered by the Ethereum blockchain. U
 
 Decentraland is the first virtual platform owned by its users.
 Grab a VR headset or use your web browser and become completely immersed in a 3D, interactive world
+
+### Por quê?
+
+A public virtual world should be ruled by open standards, shielded from the agenda of any central organization.
+
+
+In Decentraland, users have full control over the content of the land they own and keep all the proceeds from the value they generate for other users.
+
+To make this possible, Decentraland uses blockchain technology as an unforgeable record of ownership.
+
+
